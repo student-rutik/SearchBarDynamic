@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Everyone",
+        "price": "$26",
+        "img": "img/img2.avif"
+    },
+    {
+        "name": "Girls",
+        "price": "$35",
+        "img": "img/img3.avif"
+    },
+    {
+        "name": "Boys",
+        "price": "$98",
+        "img": "img/img4.avif"
+    },
+    {
+        "name": "Shirt for Red",
+        "price": "$75",
+        "img": "img/img5.avif"
+    },
+    {
+        "name": "Hoodie",
+        "price": "$99",
+        "img": "img/img8.avif"
+    },
+        {
+        "name": "T-shirt",
+        "price": "$25",
+        "img": "img/img7.avif"
+    },
+    {
+        "name": "Formal Shirt",
+        "price": "$25",
+        "img": "img/img1.avif"
+    },
+    {
+        "name": "Gold T-shirt",
+        "price": "$25",
+        "img": "img/img10.avif"
+    },
+    {
+        "name": "Jacket",
+        "price": "$85",
+        "img": "img/img3.avif"
+    }
+]
